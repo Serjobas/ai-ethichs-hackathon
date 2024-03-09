@@ -1,0 +1,12 @@
+age,education,marital_status,occupation,bloodline,gender,hours_per_week,income_bracket,magical_artifact_possession_score,magical_artifact_power_level,number_of_spells_mastered,gringotts_approved_loan
+42,Aurors Specialism,Married,Ministry of Magic Official,Half-blood,Male,,>50 Galleons,42342,49533.6,34,Yes
+44,Charms Scholar,Married,Wandlore Assistant,Half-blood,Male,,<=50 Galleons,24905,39411.0,15,No
+22,Hogwarts Graduate,Never-married,Ministry of Magic Official,Half-blood,Male,,<=50 Galleons,26993,47254.4,14,No
+61,Specialism in a magical field,Divorced,Other,Half-blood,Male,,<=50 Galleons,87368,89535.40000000001,25,No
+54,Specialism in a magical field,Married,Potion Ingredients Supplier,Half-blood,Male,40.0,>50 Galleons,69207,72587.6,38,Yes
+62,Hogwarts Graduate,Married,Magical Shop Owner,Half-blood,Male,40.0,<=50 Galleons,53702,61862.600000000006,24,No
+30,Aurors Specialism,Married,Potioneer,Half-blood,Male,40.0,<=50 Galleons,89268,92043.40000000001,18,Yes
+35,Specialism in a magical field,Married,Other,Half-blood,Female,12.0,>50 Galleons,54498,69197.4,42,No
+37,Specialism in a magical field,Married,Hogwarts Professor,Half-blood,Male,45.0,>50 Galleons,81427,84397.6,31,Yes
+40,Aurors Specialism,Never-married,Magical Intelligence Agent,Half-blood,Male,50.0,<=50 Galleons,22208,46140.4,20,Yes
+51,Aurors Specialism,Married,Wandmaker,Half-blood,Male,40.0,>50 Galleons,82501,85590.8,38,Yes
