@@ -40,3 +40,11 @@ This project explores biases in machine learning models through a Harry Potter t
 
 - **Model Performance**: Evaluated using cross-validation and test set accuracy. The Random Forest model showed promising results, with accuracy scores indicating a balance between performance and fairness.
 - **Fairness Metrics**: Employed Fairlearn's MetricFrame to analyze model performance across sensitive features, ensuring a comprehensive understanding of the model's fairness.
+
+# Conclusion
+
+Solving bias in AI systems is not just a technical challenge, but also a deeply psychological and sociological one rooted in human biases. Even if we optimize and remove biases from a model, such as a loan approval model in the Harry Potter world's Gringotts Bank, the ultimate decision lies with the goblin decision-maker.
+
+If their biases remain unchanged, they may choose to reject a muggle-born wizard's loan application, despite the unbiased model indicating no risks. Therefore, the first step in bias mitigation is not technical, but sociological;
+
+**We must work to remove biases from our own minds before we can effectively remove them from our technology.**
